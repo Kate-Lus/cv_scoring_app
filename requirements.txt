@@ -1,0 +1,2 @@
+openai
+pip freeze > requirements.txt
